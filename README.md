@@ -15,5 +15,6 @@ Visual Studio Code, Static Web Apps,
 
 Other Azure Technologies:
 microsoft azure
-This is a project that I have Created during my internship in Future Ready Talent called LoveBite.
-URL:https://calm-sea-093405800.1.azurestaticapps.net/
+
+This is a project that I have Created during my internship in Future Ready Talent called Love a Bite.
+project demoURL:https://calm-sea-093405800.1.azurestaticapps.net/
