@@ -19,4 +19,4 @@ microsoft azure
 
 This is a project that I have Created during my internship in Future Ready Talent called Love a Bite.
 
-project demoURL:calm-sea-093405800.1.azurestaticapps.net/
+project demoURL:https://calm-sea-093405800.1.azurestaticapps.net/
